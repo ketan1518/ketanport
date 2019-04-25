@@ -1,0 +1,12 @@
+body {
+    background-image: url("https://opensource.osu.edu/assets/osuosc/python_code.jpg")
+}
+#pos {
+    color: white;
+}
+.section-title {
+    color: red
+}
+.about {
+     color: red
+}
